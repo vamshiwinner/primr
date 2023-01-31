@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.prime-image {
+  height: 25vh;
+  width: 100vw;
+}
+.prime-video {
+  height: 100%;
+  width: 100vw;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 15px;
+}

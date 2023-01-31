@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.movie-imge {
+  height: 100px;
+  width: 100px;
+}
+.list {
+  list-style-type: none;
+}

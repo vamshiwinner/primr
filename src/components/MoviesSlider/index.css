@@ -1,0 +1,13 @@
+.react-slick-conatiner {
+  width: 50vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+}
+.slider {
+  width: 50vw;
+}
+.list {
+  list-style-type: none;
+}
